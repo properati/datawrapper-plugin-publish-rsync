@@ -1,0 +1,6 @@
+publish-rsync:
+  method: rsync
+  destination: user@10.109.32.2::share
+  base_url: http://www.foo.com/p/
+  password: asd
+

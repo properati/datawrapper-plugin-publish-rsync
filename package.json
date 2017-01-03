@@ -1,0 +1,9 @@
+{
+    "name": "publish-rsync",
+    "version": "0.1",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:properati/datawrapper-plugin-publish-rsync.git"
+    }
+}
+
